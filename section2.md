@@ -230,4 +230,5 @@ IDを統合することをせず、それぞれのIDを連携させることで�
 
 # 参考文献
 [1] Grassi, P. A., J. L. Fenton, and M. E. Garcia. "NIST Special Publication 800-63-3. Digital Identity Guidelines. Revision 3." (2017).
+
 [2] JIPDEC "NIST Special Publication 800-63-3, Revision 3, Digital Identity Guidelines (翻訳版)", (2017)
